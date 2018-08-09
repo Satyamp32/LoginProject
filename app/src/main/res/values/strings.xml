@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">LoginPro</string>
+    <string name="register">Register</string>
+    <string name="admin">Admin</string>
+    <string name="today_will_be_great">Today will be a great day,</string>
+    <string name="welcome">Welcome!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_remember_me">Remember me</string>
+    <string name="text_login">Login</string>
+    <string name="text_id">Id</string>
+    <string name="text_firstname">FirstName</string>
+    <string name="text_lastname">LastName</string>
+    <string name="text_emailid">Email Id</string>
+    <string name="text_dob">Date of birth</string>
+    <string name="text_phone_number">Phone number</string>
+    <string name="text_confirm_password">Confirm password</string>
+    <string name="text_register">Register</string>
+    <string name="image">Image</string>
+    <string name="title_activity_login_user_details">LoginUserDetailsActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_edit">Edit</string>
+    <string name="title_activity_update_details">UpdateDetailsActivity</string>
+    <string name="text_update">Update</string>
+
+    <string name="image_is_mandatory">image mandatory</string>
+    <string name="id">Id</string>
+    <string name="colon">colon</string>
+    <string name="first_name">FirstName</string>
+    <string name="last_name">LastName</string>
+    <string name="enter_email_id">Email Id</string>
+    <string name="email_id">enter email id</string>
+    <string name="already_a_member_login">already a member login?</string>
+
+
+</resources>
